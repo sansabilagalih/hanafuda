@@ -47,5 +47,3 @@ run the script
 ```bash
 python3 main.py -a 2
 ```
-
-```
